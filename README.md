@@ -152,7 +152,8 @@ Detailed codec construction, bit allocation, semantic tables, wire compatibility
 
 ## Published research results
 
-- [October 2026 — Secure low-bandwidth messaging and competitive carrier benchmarks](research/2026-10-zpulse-results.md): experimental measurements, methodology, limitations and next validation steps. **No proprietary code or protocol internals are published.**
+- **[Research archive — October 2026](research/README.md)**: chronological Phase 0, Phase 0.5, Phase 1 and competitive benchmark reports, including measured results, negative findings and limitations.
+- [Consolidated research overview](research/2026-10-zpulse-results.md): executive synthesis of all campaigns. **No proprietary code or protocol internals are published.**
 
 ---
 
