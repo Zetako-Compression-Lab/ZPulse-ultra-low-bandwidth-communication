@@ -154,6 +154,7 @@ Detailed codec construction, bit allocation, semantic tables, wire compatibility
 
 - **[Research archive — October 2026](research/README.md)**: chronological Phase 0, Phase 0.5, Phase 1 and competitive benchmark reports, including measured results, negative findings and limitations.
 - [ACK loss research](research/ack-loss-research.md) and [ACK optimization proposals](research/ack-optimization-proposals.md): measured confirmation costs and explicitly theoretical optimization hypotheses.
+- [ACK coalescing experiments](research/ack-coalescing-experiments.md): measured batching gains, latency trade-offs, high-loss regressions and localhost validation.
 - [Consolidated research overview](research/2026-10-zpulse-results.md): executive synthesis of all campaigns. **No proprietary code or protocol internals are published.**
 
 ---
