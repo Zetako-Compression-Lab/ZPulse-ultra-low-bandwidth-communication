@@ -150,6 +150,12 @@ Detailed codec construction, bit allocation, semantic tables, wire compatibility
 
 ---
 
+## Published research results
+
+- [October 2026 — Secure low-bandwidth messaging and competitive carrier benchmarks](research/2026-10-zpulse-results.md): experimental measurements, methodology, limitations and next validation steps. **No proprietary code or protocol internals are published.**
+
+---
+
 ## Research and development
 
 ZPulse remains under active development within Zetako Compression Lab.
